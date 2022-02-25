@@ -1,4 +1,4 @@
-# Olá, me chamo Igor Brizack e estou dando início a minha jorganda como Desenvolvedor Web Full-Stack!
+# Olá, me chamo Igor Brizack e estou dando início a minha jornada como Desenvolvedor Web Full-Stack!
 <div align="center">
   <a href="https://github.com/igorbrizack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorBrizack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

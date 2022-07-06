@@ -1,4 +1,13 @@
 # Olá, me chamo Igor Brizack e estou dando início a minha jornada como Desenvolvedor Web Full-Stack!
+
+<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Em busca da formação na área de tecnologia, focado em desenvolvimento web.
+- 🎓 &nbsp; Estudante da Trybe turma 21.
+- 💼 &nbsp; Trabalhando e desenvolvendo projetos pessoais.
+- 🌱 &nbsp; Aprendendo a como gerar valor ao meu trabalho.
+- ✍️ &nbsp; Buscando aperfeiçoar as minhas habilidades técnicas e de soft-skills. .
+
 <div align="center">
   <a href="https://github.com/igorbrizack">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IgorBrizack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

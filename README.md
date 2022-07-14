@@ -1,12 +1,12 @@
-# Olá, me chamo Igor Brizack e estou dando início a minha jornada como Desenvolvedor Web Full-Stack!
+# Hello, my name is Igor Brizack and I'm starting my journey as a Web Developer Full-Stack!
 
-<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+<h3> 👨🏻‍💻 &nbsp;About me </h3>
 
-- 🤔 &nbsp; Em busca da formação na área de tecnologia, focado em desenvolvimento web.
-- 🎓 &nbsp; Estudante da Trybe turma 21.
-- 💼 &nbsp; Trabalhando e desenvolvendo projetos pessoais.
-- 🌱 &nbsp; Aprendendo a como gerar valor ao meu trabalho.
-- ✍️ &nbsp; Buscando aperfeiçoar as minhas habilidades técnicas e de soft-skills. .
+- 🤔 &nbsp; In search of training in technology, with a focus on web development.
+- 🎓 &nbsp; Student at Trybe Class 21.
+- 💼 &nbsp; Workind and developing personal projects.
+- 🌱 &nbsp; Learning how to achive value for my work.
+- ✍️ &nbsp; Looking to improve my technical skills and soft-skills.
 
 <div align="center">
   <a href="https://github.com/igorbrizack">

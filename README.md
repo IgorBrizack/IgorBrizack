@@ -1,4 +1,4 @@
-# Hello, my name is Igor Brizack and I'm starting my journey as a Web Developer Full-Stack!
+# Hello, my name is Igor Brizack and I'm starting my journey as a Full-Stack Web Developer!
 
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 

@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Na busca por conhecimento em tecnologia, que me capacite para o mercado de trabalho.
-- 🎓 &nbsp; Estudante da turma 21 na Trybe.
+- 🎓 &nbsp; Formado na turma 21 na Trybe.
 - 💼 &nbsp; Trabalhando e desenvolvendo projetos pessoais.
 - 🌱 &nbsp; Em busca de como agregar valor ao meu conhecimento.
 - ✍️ &nbsp; Aprimorando e desenvolvendo habilidade técnicas e de Soft-Skills.

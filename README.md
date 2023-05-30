@@ -30,6 +30,7 @@
   <img align="center" alt="Igor-Express" height="60" width="60" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png" />
   <img align="center" alt="Igor-Sequelize" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Igor-Python" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Igor-FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
 </div>
   
   ##

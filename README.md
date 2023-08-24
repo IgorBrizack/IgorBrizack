@@ -1,4 +1,4 @@
-# Olá, me chamo Igor Brizack e estou dando inicio a minha jornada como Desenvolvedor Web Full Stack!
+# Olá, me chamo Igor Brizack e estou dando inicio a minha jornada como Desenvolvedor Full Stack!
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 

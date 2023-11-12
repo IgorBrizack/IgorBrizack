@@ -32,7 +32,7 @@
   <img align="center" alt="Igor-Python" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Igor-FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img align="center" alt="Igor-MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="Igor-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="Igor-AWS" width="60" height="60" src="https://img.icons8.com/color/60/amazon-web-services.png"/>
 </div>
   
   ##

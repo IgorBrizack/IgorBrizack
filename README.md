@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Na busca pelo aperfeiçoamento de conhecimentos em tecnologia.
-- 🎓 &nbsp; Formado na turma 21 na Trybe.
-- 💼 &nbsp; Desenvolvedor Full Stack na LEDAX Energia.
+- 🤔 &nbsp; Na busca pelo aperfeiçoamento de conhecimentos em tecnologia e programação.
+- 🎓 &nbsp; Formado na turma 21 na Trybe e atuando no mercado de trabalho a pouco mais de 1 ano.
+- 💼 &nbsp; Desenvolvedor Full Stack na Smartrips.
 - 🌱 &nbsp; Em busca de como agregar valor ao meu conhecimento.
 - ✍️ &nbsp; Aprimorando e desenvolvendo habilidade técnicas e de Soft-Skills.
 

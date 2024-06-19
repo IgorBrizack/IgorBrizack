@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Na busca pelo aperfeiçoamento de conhecimentos em tecnologia e programação.
-- 🎓 &nbsp; Graduado como engenheiro civil e formado na turma 21 na Trybe e atuando no mercado de trabalho a pouco mais de 1 ano.
+- 🎓 &nbsp; Graduado como engenheiro civil, formado na turma 21 na Trybe e atuando no mercado de trabalho a pouco mais de 1 ano.
 - 💼 &nbsp; Desenvolvedor Full Stack na Smartrips.
 - 🌱 &nbsp; Em busca de como agregar valor ao meu conhecimento.
 - ✍️ &nbsp; Aprimorando e desenvolvendo habilidade técnicas e de Soft-Skills.

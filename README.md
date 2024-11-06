@@ -29,7 +29,7 @@ I'm a full-stack developer chasing my dream of becoming the best in the field. I
 <img align="left" alt="Igor-FastAPI" height="30" width="30" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Igor-AWS" width="30" height="30" style="padding-right:5px;" src="https://img.icons8.com/color/30/amazon-web-services.png"/>
 
----
+##
 
 <div> 
   <a href="https://www.instagram.com/igorbrizack/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

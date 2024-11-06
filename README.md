@@ -1,4 +1,4 @@
-# 🪂 Igor Brizack!
+# 🪂 Igor Brizack
 
 **`Full-stack Developer`**
 

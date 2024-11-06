@@ -1,6 +1,6 @@
 # 🪂 Igor Brizack!
 
-`Full-stack Developer`
+**`Full-stack Developer`**
 
 I'm a full-stack developer chasing my dream of becoming the best in the field. I love learning new technologies, solving algorithm problems, and creating features that solve users' most difficult challenges.
 
@@ -9,7 +9,7 @@ I'm a full-stack developer chasing my dream of becoming the best in the field. I
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=IgorBrizack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBrizack&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<h4>🤖 Languages and tools</h4>
+### 🤖 Languages and tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />

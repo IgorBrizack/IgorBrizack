@@ -6,8 +6,8 @@ I'm a full-stack developer chasing my dream of becoming the best in the field. I
 
 <div align="center">
   <a href="https://github.com/igorbrizack">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IgorBrizack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBrizack&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=IgorBrizack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBrizack&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

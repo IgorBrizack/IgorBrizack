@@ -28,6 +28,7 @@ I'm a full-stack developer chasing my dream of becoming the best in the field. I
 <img align="left" alt="Igor-Python" height="30" width="30" style="padding-right:5px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Igor-FastAPI" height="30" width="30" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Igor-AWS" width="30" height="30" style="padding-right:5px;" src="https://img.icons8.com/color/30/amazon-web-services.png"/>
+<br />
 
 #
 

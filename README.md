@@ -4,12 +4,6 @@
 
 I'm a full-stack developer chasing my dream of becoming the best in the field. I love learning new technologies, solving algorithm problems, and creating features that solve users' most difficult challenges.
 
-<div align="center">
-  <a href="https://github.com/igorbrizack">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=IgorBrizack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBrizack&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ---
 
 ### 🤖 Languages and tools

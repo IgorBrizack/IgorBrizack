@@ -87,15 +87,6 @@ Distributed Systems · Go · AWS · Observability · OpenTelemetry · System Des
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorBrizack&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBrizack&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-brizack/)
